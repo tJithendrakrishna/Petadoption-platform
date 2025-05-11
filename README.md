@@ -1,2 +1,8 @@
-# Petadoption-platform
-This project is a comprehensive pet adoption platform that allows users to connect with pets in need of a loving home. Users can create accounts, log in, and seamlessly add their pets for adoption. The platform also enables users to initiate donation campaigns to support the well-being of pets.  
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
